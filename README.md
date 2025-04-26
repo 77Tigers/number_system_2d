@@ -5,4 +5,5 @@ This number system contains all the natural numbers, since you can just keep add
 Negatives are possible and are implemented much like negatives in 2-adic numbers.
 
 Taking inspiration from 2-adic numbers, we can also define fractions, but interestingly enough only for odd numbers. 1/2n is impossible it seems. Below is the number 1/3 in image format (truncated as it goes on forever), where 0 is white and 1 is black. There are more examples like this in the python file provided. Feel free to uncomment them! Let me know if you find anything cool.
+
 ![One Third](one_third.png)
