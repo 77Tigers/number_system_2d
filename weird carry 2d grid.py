@@ -79,6 +79,7 @@ def print_im(g):
             if um == 3:
                 pm[i, j] = (255, 255, 0)
     image.show()
+    # image.save("output.png", format="png")
 
 """
 grid = dict()
