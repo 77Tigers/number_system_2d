@@ -1,4 +1,4 @@
-Normally when counting (let's say we're working in base 2) you carry to the left once you hit 2. But what if we carried in 2 directions instead? In this number system, carries happen to the right and up. You get some pretty patterns.
+Normally when counting (let's say we're working in base 2) you carry to the left once you hit 2. But what if we carried in 2 directions instead? In this number system, carries happen to the right and down. You get some pretty patterns.
 
 This number system contains all the natural numbers, since you can just keep adding 1. It also contains shifted versions of these numbers. Addition is quite trivial, as you just add numbers pointwise and keep carrying until there's nothing left to carry. Multiplications a x b can be defined as adding shifted copies of b together (determined by the 1s of a). I believe long division etc. is also possible.
 
